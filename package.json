@@ -1,0 +1,14 @@
+{
+  "name": "chuny",
+  "version": "1.0.0",
+  "bin": "script.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  },
+  "pkg": {
+    "targets": [ "node18-win-x64" ],
+    "outputPath": "dist"
+  }
+}
